@@ -1,3 +1,4 @@
+同目录建立文件夹input、 output、tmp
 #此为未验证版本
 将fastq.gz文件放入input文件夹，
 在此目录下运行bash hpv_type.sh
