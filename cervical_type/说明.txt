@@ -1,0 +1,4 @@
+#此为未验证版本
+将fastq.gz文件放入input文件夹，
+在此目录下运行bash hpv_type.sh
+结果输出到output文件夹，中间文件在tmp会删除
